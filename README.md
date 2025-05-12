@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mouts-ambev.git
+   git clone https://github.com/rafaeu749/mouts-ambev.git
    cd mouts-ambev
    ```
 
